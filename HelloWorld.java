@@ -7,8 +7,7 @@ public class HelloWorld {
 	System.out.println("changing");
     }
 
-}
-public class HelloWorld {
+} class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello,  Aijaz World!");
 	System.out.println("changing more");
